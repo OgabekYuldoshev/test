@@ -6,6 +6,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
+    "db": "node server.js",
     "dev": "poi",
     "build": "poi build",
     "report": "poi build --bundle-report",
