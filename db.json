@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "text": "IT",
+      "value": "IT"
+    },
+    {
+      "id": 2,
+      "text": "Bugalterya",
+      "value": "Bugalterya"
+    },
+    {
+      "id": 3,
+      "text": "Marketing",
+      "value": "Marketing"
+    }
+  ],
+  "positions": [
+    {
+      "id": 1,
+      "text": "Lider",
+      "value": "Lider"
+    },
+    {
+      "id": 2,
+      "text": "Worker",
+      "value": "Worker"
+    },
+    {
+      "id": 3,
+      "text": "Project Manager",
+      "value": "Project Manager"
+    }
+  ],
+  "employers": [
+    {
+      "fullname": "Asal Yuldoshev",
+      "position": "Lider",
+      "section": "Bugalterya",
+      "gender": "famale",
+      "birthday": "1997-01-23",
+      "id": 1
+    },
+    {
+      "fullname": "Ogabek Yuldoshev",
+      "position": "Lider",
+      "section": "IT",
+      "gender": "male",
+      "birthday": "2000-01-27",
+      "id": 2
+    },
+    {
+      "fullname": "Shakhzod Yuldoshev",
+      "position": "Worker",
+      "section": "Bugalterya",
+      "gender": "male",
+      "birthday": "1998-06-26",
+      "id": 3
+    }
+  ]
+}
